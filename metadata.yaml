@@ -1,0 +1,33 @@
+_repo: The-Garden-of-Eden_33066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Faust, Frederick Schiller
+    - Frederick, John
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+description: ''
+gutenberg_issued: '2010-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33066'
+  lccn: '63020473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Horses -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Religion -- Fiction'
+title: The Garden of Eden
+url: http://www.gutenberg.org/ebooks/33066
